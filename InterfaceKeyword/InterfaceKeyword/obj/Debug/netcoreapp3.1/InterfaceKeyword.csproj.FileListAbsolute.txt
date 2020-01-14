@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\bin\Debug\netcoreapp3.1\InterfaceKeyword.exe
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\bin\Debug\netcoreapp3.1\InterfaceKeyword.deps.json
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\bin\Debug\netcoreapp3.1\InterfaceKeyword.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\bin\Debug\netcoreapp3.1\InterfaceKeyword.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\bin\Debug\netcoreapp3.1\InterfaceKeyword.dll
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\bin\Debug\netcoreapp3.1\InterfaceKeyword.pdb
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\obj\Debug\netcoreapp3.1\InterfaceKeyword.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\obj\Debug\netcoreapp3.1\InterfaceKeyword.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\obj\Debug\netcoreapp3.1\InterfaceKeyword.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\obj\Debug\netcoreapp3.1\InterfaceKeyword.dll
+C:\Users\hotchandanip\source\repos\InterfaceKeyword\InterfaceKeyword\obj\Debug\netcoreapp3.1\InterfaceKeyword.pdb

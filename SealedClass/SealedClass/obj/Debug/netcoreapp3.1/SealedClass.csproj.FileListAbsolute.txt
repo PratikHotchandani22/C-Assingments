@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.exe
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.deps.json
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.dll
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.pdb
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.dll
+C:\Users\hotchandanip\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.pdb

@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\bin\Debug\netcoreapp3.1\StaticAndPrivateConstructors.exe
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\bin\Debug\netcoreapp3.1\StaticAndPrivateConstructors.deps.json
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\bin\Debug\netcoreapp3.1\StaticAndPrivateConstructors.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\bin\Debug\netcoreapp3.1\StaticAndPrivateConstructors.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\bin\Debug\netcoreapp3.1\StaticAndPrivateConstructors.dll
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\bin\Debug\netcoreapp3.1\StaticAndPrivateConstructors.pdb
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\obj\Debug\netcoreapp3.1\StaticAndPrivateConstructors.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\obj\Debug\netcoreapp3.1\StaticAndPrivateConstructors.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\obj\Debug\netcoreapp3.1\StaticAndPrivateConstructors.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\obj\Debug\netcoreapp3.1\StaticAndPrivateConstructors.dll
+C:\Users\hotchandanip\source\repos\StaticAndPrivateConstructors\StaticAndPrivateConstructors\obj\Debug\netcoreapp3.1\StaticAndPrivateConstructors.pdb

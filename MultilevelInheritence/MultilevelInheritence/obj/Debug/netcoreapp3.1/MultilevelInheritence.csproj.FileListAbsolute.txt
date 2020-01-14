@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\bin\Debug\netcoreapp3.1\MultilevelInheritence.exe
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\bin\Debug\netcoreapp3.1\MultilevelInheritence.deps.json
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\bin\Debug\netcoreapp3.1\MultilevelInheritence.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\bin\Debug\netcoreapp3.1\MultilevelInheritence.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\bin\Debug\netcoreapp3.1\MultilevelInheritence.dll
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\bin\Debug\netcoreapp3.1\MultilevelInheritence.pdb
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\obj\Debug\netcoreapp3.1\MultilevelInheritence.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\obj\Debug\netcoreapp3.1\MultilevelInheritence.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\obj\Debug\netcoreapp3.1\MultilevelInheritence.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\obj\Debug\netcoreapp3.1\MultilevelInheritence.dll
+C:\Users\hotchandanip\source\repos\MultilevelInheritence\MultilevelInheritence\obj\Debug\netcoreapp3.1\MultilevelInheritence.pdb

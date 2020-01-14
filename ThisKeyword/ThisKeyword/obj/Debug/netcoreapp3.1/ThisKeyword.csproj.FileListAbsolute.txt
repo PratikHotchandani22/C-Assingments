@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.exe
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.deps.json
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.dll
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.pdb
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.dll
+C:\Users\hotchandanip\source\repos\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.pdb

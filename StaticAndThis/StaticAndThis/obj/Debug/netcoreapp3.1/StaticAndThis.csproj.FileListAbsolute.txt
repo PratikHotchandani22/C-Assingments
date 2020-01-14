@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\bin\Debug\netcoreapp3.1\StaticAndThis.exe
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\bin\Debug\netcoreapp3.1\StaticAndThis.deps.json
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\bin\Debug\netcoreapp3.1\StaticAndThis.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\bin\Debug\netcoreapp3.1\StaticAndThis.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\bin\Debug\netcoreapp3.1\StaticAndThis.dll
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\bin\Debug\netcoreapp3.1\StaticAndThis.pdb
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\obj\Debug\netcoreapp3.1\StaticAndThis.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\obj\Debug\netcoreapp3.1\StaticAndThis.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\obj\Debug\netcoreapp3.1\StaticAndThis.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\obj\Debug\netcoreapp3.1\StaticAndThis.dll
+C:\Users\hotchandanip\source\repos\StaticAndThis\StaticAndThis\obj\Debug\netcoreapp3.1\StaticAndThis.pdb

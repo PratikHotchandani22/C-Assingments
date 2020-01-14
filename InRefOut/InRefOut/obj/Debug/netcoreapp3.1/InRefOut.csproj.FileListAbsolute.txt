@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\bin\Debug\netcoreapp3.1\InRefOut.exe
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\bin\Debug\netcoreapp3.1\InRefOut.deps.json
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\bin\Debug\netcoreapp3.1\InRefOut.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\bin\Debug\netcoreapp3.1\InRefOut.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\bin\Debug\netcoreapp3.1\InRefOut.dll
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\bin\Debug\netcoreapp3.1\InRefOut.pdb
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\obj\Debug\netcoreapp3.1\InRefOut.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\obj\Debug\netcoreapp3.1\InRefOut.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\obj\Debug\netcoreapp3.1\InRefOut.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\obj\Debug\netcoreapp3.1\InRefOut.dll
+C:\Users\hotchandanip\source\repos\InRefOut\InRefOut\obj\Debug\netcoreapp3.1\InRefOut.pdb

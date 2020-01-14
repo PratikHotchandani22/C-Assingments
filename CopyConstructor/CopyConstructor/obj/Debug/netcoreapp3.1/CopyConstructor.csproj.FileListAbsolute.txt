@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.exe
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.deps.json
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.dll
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.pdb
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.dll
+C:\Users\hotchandanip\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.pdb

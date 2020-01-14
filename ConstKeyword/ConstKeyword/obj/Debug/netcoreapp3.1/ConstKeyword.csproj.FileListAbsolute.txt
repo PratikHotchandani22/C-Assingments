@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\bin\Debug\netcoreapp3.1\ConstKeyword.exe
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\bin\Debug\netcoreapp3.1\ConstKeyword.deps.json
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\bin\Debug\netcoreapp3.1\ConstKeyword.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\bin\Debug\netcoreapp3.1\ConstKeyword.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\bin\Debug\netcoreapp3.1\ConstKeyword.dll
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\bin\Debug\netcoreapp3.1\ConstKeyword.pdb
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\obj\Debug\netcoreapp3.1\ConstKeyword.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\obj\Debug\netcoreapp3.1\ConstKeyword.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\obj\Debug\netcoreapp3.1\ConstKeyword.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\obj\Debug\netcoreapp3.1\ConstKeyword.dll
+C:\Users\hotchandanip\source\repos\ConstKeyword\ConstKeyword\obj\Debug\netcoreapp3.1\ConstKeyword.pdb

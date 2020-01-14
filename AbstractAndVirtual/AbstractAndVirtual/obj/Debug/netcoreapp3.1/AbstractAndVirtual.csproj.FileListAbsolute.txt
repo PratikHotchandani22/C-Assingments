@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\bin\Debug\netcoreapp3.1\AbstractAndVirtual.exe
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\bin\Debug\netcoreapp3.1\AbstractAndVirtual.deps.json
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\bin\Debug\netcoreapp3.1\AbstractAndVirtual.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\bin\Debug\netcoreapp3.1\AbstractAndVirtual.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\bin\Debug\netcoreapp3.1\AbstractAndVirtual.dll
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\bin\Debug\netcoreapp3.1\AbstractAndVirtual.pdb
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\obj\Debug\netcoreapp3.1\AbstractAndVirtual.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\obj\Debug\netcoreapp3.1\AbstractAndVirtual.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\obj\Debug\netcoreapp3.1\AbstractAndVirtual.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\obj\Debug\netcoreapp3.1\AbstractAndVirtual.dll
+C:\Users\hotchandanip\source\repos\AbstractAndVirtual\AbstractAndVirtual\obj\Debug\netcoreapp3.1\AbstractAndVirtual.pdb

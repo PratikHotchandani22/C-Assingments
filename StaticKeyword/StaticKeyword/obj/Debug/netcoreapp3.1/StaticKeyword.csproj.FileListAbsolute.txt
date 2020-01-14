@@ -1,0 +1,10 @@
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.exe
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.deps.json
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.dll
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.pdb
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.dll
+C:\Users\hotchandanip\source\repos\StaticKeyword\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.pdb
