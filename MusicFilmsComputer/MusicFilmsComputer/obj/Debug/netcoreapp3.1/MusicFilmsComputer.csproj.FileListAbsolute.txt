@@ -1,0 +1,11 @@
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\bin\Debug\netcoreapp3.1\MusicFilmsComputer.exe
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\bin\Debug\netcoreapp3.1\MusicFilmsComputer.deps.json
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\bin\Debug\netcoreapp3.1\MusicFilmsComputer.runtimeconfig.json
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\bin\Debug\netcoreapp3.1\MusicFilmsComputer.runtimeconfig.dev.json
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\bin\Debug\netcoreapp3.1\MusicFilmsComputer.dll
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\bin\Debug\netcoreapp3.1\MusicFilmsComputer.pdb
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\obj\Debug\netcoreapp3.1\MusicFilmsComputer.csprojAssemblyReference.cache
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\obj\Debug\netcoreapp3.1\MusicFilmsComputer.AssemblyInfoInputs.cache
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\obj\Debug\netcoreapp3.1\MusicFilmsComputer.AssemblyInfo.cs
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\obj\Debug\netcoreapp3.1\MusicFilmsComputer.dll
+C:\Users\hotchandanip\source\repos\MusicFilmsComputer\MusicFilmsComputer\obj\Debug\netcoreapp3.1\MusicFilmsComputer.pdb

@@ -4,7 +4,9 @@ using System.Text;
 
 namespace MusicFilmsComputer.Models
 {
-    class MusicFilmsAndComputerClasses
+    public class Computer
     {
+        public string name, code, category, size;
+        
     }
 }

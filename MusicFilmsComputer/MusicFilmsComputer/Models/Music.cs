@@ -4,7 +4,9 @@ using System.Text;
 
 namespace MusicFilmsComputer.Models
 {
-    class Music
+    public class Music : Computer
     {
+        public string singer;
+        public int seconds;
     }
 }
